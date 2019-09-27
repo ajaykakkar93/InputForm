@@ -1,0 +1,17 @@
+.qv-object-InputForm label.Form_Label {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.qv-object-InputForm .Form_input, .qv-object-InputForm .lui-radiobutton {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.qv-object-InputForm .hide{
+	display:none;
+}
+
+.qv-object-InputForm form{
+    padding: 4px 8px;
+}
