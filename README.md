@@ -28,3 +28,5 @@ Form Items
 <h1>Demo</h1>
 <img src="./Resignation.PNG">
 <img src="./retain.PNG">
+
+<img src="./InputForm_demo.gif">
